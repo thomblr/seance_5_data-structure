@@ -1,8 +1,8 @@
 def translate_to_morse(str):
     """
     Translate the word str to morse
-    :param str: the word you want to translate
-    :return: the translated word
+    :param str: the word you want to translate (str)
+    :return: the translated word (str)
     """
 
     code = {
